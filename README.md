@@ -9,9 +9,9 @@ O Ceriminal e o config fazem parte de um pacote de solução de alta segurança 
 
 ![](header.png)
 
-## Installation
+## Instalação
 
-A instalação é realizada através de instaladores que serão fornecidos pela contratada. Atualmente as configurações minimas de hardware para sua implantação é a seguinte:
+Será realizada através de instaladores que serão fornecidos pela contratada. Atualmente as configurações minimas de hardware para sua implantação são as seguintes:
 
 Windows:
 
@@ -21,11 +21,11 @@ Windows:
 - 200MB de espaço em disco
 ```
 
-## Usage example
+## Diagrama do sistema 
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Inserir aqui uma imagem do diagrama do sistema
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_E aqui referenciar o wiki completo [Wiki][wiki]._
 
 ## Development setup
 
@@ -59,11 +59,11 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-## Contributing
+## Sugestões, dúvidas ou contato
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
+1. Prodata Mobility Brasil (<https://github.com/yourname/yourproject/fork>)
+2. Martonis MSI (`git checkout -b feature/fooBar`)
+3. Cam (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
