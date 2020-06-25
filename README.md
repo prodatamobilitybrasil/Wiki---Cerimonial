@@ -11,12 +11,6 @@ O Ceriminal e o config fazem parte de um pacote de solução de alta segurança 
 
 ## Installation
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
 Windows:
 
 ```sh
