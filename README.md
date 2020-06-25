@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+O Ceriminal e o config fazem parte de um pacote de solução de alta segurança para geração de crédito eletrônicos, desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes.
 
 ![](header.png)
 
