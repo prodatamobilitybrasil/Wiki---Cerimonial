@@ -11,10 +11,14 @@ O Ceriminal e o config fazem parte de um pacote de solução de alta segurança 
 
 ## Installation
 
+A instalação é realizada através de instaladores que serão fornecidos pela contratada. Atualmente as configurações minimas de hardware para sua implantação é a seguinte:
+
 Windows:
 
 ```sh
-edit autoexec.bat
+- Windows 10 - 64bits
+- 4gb de memória ram
+- 200MB de espaço em disco
 ```
 
 ## Usage example
