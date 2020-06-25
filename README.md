@@ -1,4 +1,4 @@
-# 
+# Cerimonial e Config
 > Tecnologia em segurança para geração de créditos eletrônicos para uso no transporte público e outros sistemas.
 
 [![NPM Version][npm-image]][npm-url]
