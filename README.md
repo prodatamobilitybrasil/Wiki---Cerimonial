@@ -2,7 +2,7 @@
 # Cerimonial
 > Tecnologia em segurança para geração de créditos eletrônicos para uso no transporte público e outros sistemas.
 
-O Ceriminal faz parte de um pacote de solução de alta segurança para geração de crédito eletrônicos desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes. Essa solução permite que créditos eletrônicos sejam auditáveis pois possuem correspodência direta com o dinheiro real captado pela empresa e seguro devido as multiplas camadas de segurança.
+O Cerimonal é um aplicativo windows que faz parte de um pacote de solução de alta segurança para geração de crédito eletrônicos desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes. Essa solução permite que créditos eletrônicos sejam auditáveis pois possuem correspodência direta com o dinheiro real captado pela empresa e seguro devido as multiplas camadas de segurança.
 
 ![](header.png)
 
@@ -20,7 +20,7 @@ Windows:
 
 ## Diagrama do sistema 
 
-Inserir aqui uma imagem do diagrama do sistema
+ [![fluxo_low_1]][martonis-url]
 
 _E aqui referenciar o wiki completo [Wiki][wiki]._
 
@@ -44,6 +44,7 @@ _E aqui referenciar o wiki completo [Wiki][wiki]._
 
 <!-- Markdown link & img dfn's -->
 [logo-martonis-image]: https://github.com/msi-devops/Wiki---Cerimonial/blob/master/teste_logo_cinza.PNG
+[fluxo_low_1]: https://github.com/msi-devops/Wiki---Cerimonial/blob/master/Fluxo_Cerimonial_low_1.jpg
 [martonis-url]: https://www.martonis.com.br/
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
