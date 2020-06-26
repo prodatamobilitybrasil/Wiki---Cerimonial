@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-O Ceriminal e o config fazem parte de um pacote de solução de alta segurança para geração de crédito eletrônicos, desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes.
+O Ceriminal e o config fazem parte de um pacote de solução de alta segurança para geração de crédito eletrônicos desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes. Essa solução permite que créditos eletrônicos sejam auditáveis pois possuem correspodência direta com o dinheiro real captado pela empresa e seguro devido as multiplas camadas de segurança.
 
 ![](header.png)
 
@@ -27,29 +27,25 @@ Inserir aqui uma imagem do diagrama do sistema
 
 _E aqui referenciar o wiki completo [Wiki][wiki]._
 
-## Development setup
+## Implantação
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Ela ocorre no si
 
 ```sh
 make install
 npm test
 ```
 
-## Release History
+## Sistema de Bilhetagem que utilizam a solução
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+* Goiana - 
+    * Consórcio REDEMOB
+    
+## Próximos projetos
+
+* Cuiabá
+    * MTU
+
 
 ## Meta
 
