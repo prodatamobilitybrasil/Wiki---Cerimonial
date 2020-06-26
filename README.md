@@ -65,7 +65,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 
 <!-- Markdown link & img dfn's -->
-[logo-martonis-image]: /teste_logo_cinza.png
+[logo-martonis-image]: https://github.com/msi-devops/Wiki---Cerimonial/blob/master/teste_logo_cinza.PNG
 [martonis-url]: https://www.martonis.com.br/
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
