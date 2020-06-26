@@ -63,7 +63,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 
 <!-- Markdown link & img dfn's -->
-[logo-martonis-image]: https://static.wixstatic.com/media/0ace11_aa9b895c347045d190dee173c26ccfb1.png/v1/fill/w_307,h_145,al_c,q_85,usm_0.66_1.00_0.01/0ace11_aa9b895c347045d190dee173c26ccfb1.webp
+[logo-martonis-image]: /imagens/teste_logo_cinza.png
 [martonis-url]: https://www.martonis.com.br/
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
