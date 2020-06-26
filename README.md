@@ -1,4 +1,4 @@
-# Cerimonial e Config
+# Cerimonial e Config [![logo-martonis-image]][martonis-url]
 > Tecnologia em segurança para geração de créditos eletrônicos para uso no transporte público e outros sistemas.
 
 [![NPM Version][npm-image]][npm-url]
@@ -57,15 +57,13 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Sugestões, dúvidas ou contato
 
-1. Prodata Mobility Brasil (<https://github.com/yourname/yourproject/fork>)
-2. Martonis MSI (`git checkout -b feature/fooBar`)
-3. Cam (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Prodata Mobility Brasil (<http://www.prodatamobility.com.br/>)
+2. Martonis MSI (<https://www.martonis.com.br/>)
+
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
+[logo-martonis-image]: https://static.wixstatic.com/media/0ace11_aa9b895c347045d190dee173c26ccfb1.png/v1/fill/w_307,h_145,al_c,q_85,usm_0.66_1.00_0.01/0ace11_aa9b895c347045d190dee173c26ccfb1.webp
+[martonis-url]: https://www.martonis.com.br/
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
