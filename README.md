@@ -1,4 +1,6 @@
  [![logo-martonis-image]][martonis-url]
+ ![Screenshot](teste_logo_cinza.png)
+
 # Cerimonial e Config
 > Tecnologia em segurança para geração de créditos eletrônicos para uso no transporte público e outros sistemas.
 
