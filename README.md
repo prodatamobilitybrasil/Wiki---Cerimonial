@@ -6,6 +6,13 @@ O Cerimonal é um aplicativo windows que faz parte de um pacote de solução de 
 
 ![](header.png)
 
+
+## Diagrama do sistema 
+
+ [![fluxo_low_1]][martonis-url]
+
+_E aqui referenciar o wiki completo [Wiki][wiki]._
+
 ## Instalação
 
 Será realizada através de instaladores que serão fornecidos pela contratada. Atualmente as configurações minimas de hardware para sua implantação são as seguintes:
@@ -18,11 +25,6 @@ Windows:
 - 200MB de espaço em disco
 ```
 
-## Diagrama do sistema 
-
- [![fluxo_low_1]][martonis-url]
-
-_E aqui referenciar o wiki completo [Wiki][wiki]._
 
 
 ## Sistema de Bilhetagem que utilizam a solução
