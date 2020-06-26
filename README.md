@@ -24,14 +24,6 @@ Inserir aqui uma imagem do diagrama do sistema
 
 _E aqui referenciar o wiki completo [Wiki][wiki]._
 
-## Implantação
-
-Ela ocorre no si
-
-```sh
-make install
-npm test
-```
 
 ## Sistema de Bilhetagem que utilizam a solução
 
