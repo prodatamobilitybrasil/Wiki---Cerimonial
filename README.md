@@ -43,7 +43,7 @@ Windows:
 
 
 <!-- Markdown link & img dfn's -->
-[logo-martonis-image]: https://github.com/msi-devops/Wiki---Cerimonial/blob/master/teste_logo_cinza.PNG
+[logo-martonis-image]: https://github.com/msi-devops/Wiki---Cerimonial/blob/master/logo_prodata_black.PNG
 [fluxo_low_1]: https://github.com/msi-devops/Wiki---Cerimonial/blob/master/Fluxo_Cerimonial_low_1.jpg
 [martonis-url]: https://www.martonis.com.br/
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
