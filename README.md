@@ -39,7 +39,6 @@ Windows:
 ## Sugestões, dúvidas ou contato
 
 1. Prodata Mobility Brasil (<http://www.prodatamobility.com.br/>)
-2. Martonis MSI (<https://www.martonis.com.br/>)
 
 
 <!-- Markdown link & img dfn's -->
